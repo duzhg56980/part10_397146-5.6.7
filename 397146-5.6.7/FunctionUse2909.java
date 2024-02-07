@@ -1,0 +1,6 @@
+import cn.hutool.core.io.FileUtil;
+public class FunctionUse2909 {
+public void funcUse() {
+FileUtil fileutil = new FileUtil();
+}
+}

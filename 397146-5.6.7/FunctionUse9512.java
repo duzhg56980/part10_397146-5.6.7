@@ -1,0 +1,6 @@
+import cn.hutool.extra.tokenizer.AbstractResult;
+public class FunctionUse9512 {
+public void funcUse() {
+AbstractResult abstractresult = new AbstractResult();
+}
+}
